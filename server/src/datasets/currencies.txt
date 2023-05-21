@@ -1,0 +1,140 @@
+[
+    {
+        "meta": { "fullName": "US Dollar", "symbol": "USD" },
+        "timestamp": ISODate("2023-03-22T10:40:00.000+00:00"),
+        "nativeRate": 1,
+        "usdRate": 1
+    },
+    {
+        "meta": { "fullName": "Ukrainian Hryvnia", "symbol": "UAH" },
+        "timestamp": ISODate("2023-03-22T10:40:00.000+00:00"),
+        "nativeRate": 36.93150,
+        "usdRate": 0.0270919
+    },
+    {
+        "meta": { "fullName": "British Pound", "symbol": "GBD" },
+        "timestamp": ISODate("2023-03-22T10:40:00.000+00:00"),
+        "nativeRate": 0.81195,
+        "usdRate": 1.2316
+    },
+    {
+        "meta": { "fullName": "Swiss Franc", "symbol": "CHF" },
+        "timestamp": ISODate("2023-03-22T10:40:00.000+00:00"),
+        "nativeRate": 0.91640,
+        "usdRate": 1.0912
+    },
+    {
+        "meta": { "fullName": "Polish Zloty", "symbol": "PLN" },
+        "timestamp": ISODate("2023-03-22T10:40:00.000+00:00"),
+        "nativeRate": 4.4389,
+        "usdRate": 0.22526
+    },
+    {
+        "meta": { "fullName": "Euro", "symbol": "EUR" },
+        "timestamp": ISODate("2023-03-22T10:40:00.000+00:00"),
+        "nativeRate": 0.91758,
+        "usdRate": 1.0898
+    },
+    {
+        "meta": { "fullName": "Canadian Dollar", "symbol": "CAD" },
+        "timestamp": ISODate("2023-03-22T10:40:00.000+00:00"),
+        "nativeRate": 1.3670,
+        "usdRate": 0.73150
+    },
+    {
+        "meta": { "fullName": "Australian Dollar", "symbol": "AUD" },
+        "timestamp": ISODate("2023-03-22T10:40:00.000+00:00"),
+        "nativeRate": 1.4855,
+        "usdRate": 0.67315
+    },
+    {
+        "meta": { "fullName": "Japanese Yen", "symbol": "JPY" },
+        "timestamp": ISODate("2023-03-22T10:40:00.000+00:00"),
+        "nativeRate": 131.22,
+        "usdRate": 0.0076208
+    },
+    {
+        "meta": { "fullName": "Indian Rupee", "symbol": "INR" },
+        "timestamp": ISODate("2023-03-22T10:40:00.000+00:00"),
+        "nativeRate": 82.231,
+        "usdRate": 0.012161
+    },
+    {
+        "meta": { "fullName": "Philippine Peso", "symbol": "PHP" },
+        "timestamp": ISODate("2023-03-22T10:40:00.000+00:00"),
+        "nativeRate": 54.312,
+        "usdRate": 0.018412
+    },
+    {
+        "meta": { "fullName": "New Zeeland Dollar", "symbol": "NZD" },
+        "timestamp": ISODate("2023-03-22T10:40:00.000+00:00"),
+        "nativeRate": 1.5914,
+        "usdRate": 0.62837
+    },
+    {
+        "meta": { "fullName": "Singapore Dollar", "symbol": "SGD" },
+        "timestamp": ISODate("2023-03-22T10:40:00.000+00:00"),
+        "nativeRate": 1.3265,
+        "usdRate": 0.75387
+    },
+    {
+        "meta": { "fullName": "Norwegian Krone", "symbol": "NOK" },
+        "timestamp": ISODate("2023-03-22T10:40:00.000+00:00"),
+        "nativeRate": 10.368,
+        "usdRate": 0.096441
+    },
+    {
+        "meta": { "fullName": "Israel Shekel", "symbol": "ILS" },
+        "timestamp": ISODate("2023-03-22T10:40:00.000+00:00"),
+        "nativeRate": 3.6229,
+        "usdRate": 0.27602
+    },
+    {
+        "meta": { "fullName": "Chinese Yuan Renminbi", "symbol": "CNY" },
+        "timestamp": ISODate("2023-03-22T10:40:00.000+00:00"),
+        "nativeRate": 6.8254,
+        "usdRate": 0.14651
+    },
+    {
+        "meta": { "fullName": "Turkish Lira", "symbol": "TRY" },
+        "timestamp": ISODate("2023-03-22T10:40:00.000+00:00"),
+        "nativeRate": 19.048,
+        "usdRate": 0.052498
+    },
+    {
+        "meta": { "fullName": "Brazilian Real", "symbol": "BRL" },
+        "timestamp": ISODate("2023-03-22T10:40:00.000+00:00"),
+        "nativeRate": 5.2369,
+        "usdRate": 0.19095
+    },
+    {
+        "meta": { "fullName": "Taiwan New Dollar", "symbol": "TWD" },
+        "timestamp": ISODate("2023-03-22T10:40:00.000+00:00"),
+        "nativeRate": 30.351,
+        "usdRate": 0.032947
+    },
+    {
+        "meta": { "fullName": "Swedish Krona", "symbol": "SEK" },
+        "timestamp": ISODate("2023-03-22T10:40:00.000+00:00"),
+        "nativeRate": 10.260,
+        "usdRate": 0.097466
+    },
+    {
+        "meta": { "fullName": "South African Rand", "symbol": "ZAR" },
+        "timestamp": ISODate("2023-03-22T10:40:00.000+00:00"),
+        "nativeRate": 18.080,
+        "usdRate": 0.055311
+    },
+    {
+        "meta": { "fullName": "Danish Krone", "symbol": "DKK" },
+        "timestamp": ISODate("2023-03-22T10:40:00.000+00:00"),
+        "nativeRate": 6.8359,
+        "usdRate": 0.14629
+    },
+    {
+        "meta": { "fullName": "Mexican Peso", "symbol": "MXN" },
+        "timestamp": ISODate("2023-03-22T10:40:00.000+00:00"),
+        "nativeRate": 18.493,
+        "usdRate": 0.054074
+    }
+]

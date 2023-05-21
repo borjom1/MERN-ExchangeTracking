@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: rgb(35,35,35);
+  background: linear-gradient(180deg, rgba(35,35,35,1) 0%, rgba(25,25,25,1) 100%, rgba(70,116,149,1) 232323%);
+  min-height : 200vh;
+}
+
+.active {
+  border-bottom: solid 0.2rem #47E8E8;
+}
+
+/* scroll bar settings */
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #313131;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+  height: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

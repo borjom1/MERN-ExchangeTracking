@@ -1,0 +1,272 @@
+[
+    {
+        "meta": {
+            "fullName": "PayPal",
+            "symbol": "PYPL"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 72.04,
+        "volume": 188000
+    },
+    {
+        "meta": {
+            "fullName": "Adobe",
+            "symbol": "ADBE"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 367.01,
+        "volume": 344541
+    },
+    {
+        "meta": {
+            "fullName": "Amazon.con, Inc.",
+            "symbol": "AMZN"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 98.70,
+        "volume": 1036745
+    },
+    {
+        "meta": {
+            "fullName": "Apple Inc.",
+            "symbol": "AAPL"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 157.83,
+        "volume": 5208399
+    },
+    {
+        "meta": {
+            "fullName": "Tesla, Inc.",
+            "symbol": "TSLA"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 191.15,
+        "volume": 1804646
+    },
+    {
+        "meta": {
+            "fullName": "Microsoft Corporation",
+            "symbol": "MSFT"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 272.29,
+        "volume": 855520
+    },
+    {
+        "meta": {
+            "fullName": "Intel Corporation",
+            "symbol": "INTC"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 28.13,
+        "volume": 185116
+    },
+    {
+        "meta": {
+            "fullName": "Netflix, Inc.",
+            "symbol": "NFLX"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 293.90,
+        "volume": 560335
+    },
+    {
+        "meta": {
+            "fullName": "Meta Platforms, Inc.",
+            "symbol": "META"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 199.81,
+        "volume": 316168
+    },
+    {
+        "meta": {
+            "fullName": "Alphabet Inc.",
+            "symbol": "GOOG"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 104.22,
+        "volume": 150822
+    },
+    {
+        "meta": {
+            "fullName": "NVIDIA Corporation",
+            "symbol": "NVDA"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 264.68,
+        "volume": 119079
+    },
+    {
+        "meta": {
+            "fullName": "Advanced Micro Devices, Inc.",
+            "symbol": "AMD"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 97.58,
+        "volume": 137289
+    },
+    {
+        "meta": {
+            "fullName": "Sony Group Corporation",
+            "symbol": "SONY"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 87.44,
+        "volume": 492617
+    },
+    {
+        "meta": {
+            "fullName": "Alibaba Group Holding Limited",
+            "symbol": "BABA"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 83.65,
+        "volume": 45784
+    },
+    {
+        "meta": {
+            "fullName": "Snap Inc.",
+            "symbol": "SNAP"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 11.05,
+        "volume": 368387
+    },
+    {
+        "meta": {
+            "fullName": "Ford Motor Company",
+            "symbol": "F"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 11.48,
+        "volume": 80491
+    },
+    {
+        "meta": {
+            "fullName": "Unity Software Inc.",
+            "symbol": "U"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 28.36,
+        "volume": 115268
+    },
+    {
+        "meta": {
+            "fullName": "Cisco Systems, Inc.",
+            "symbol": "CSCO"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 49.46,
+        "volume": 59450
+    },
+    {
+        "meta": {
+            "fullName": "The Coca-Cola Company",
+            "symbol": "KO"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 60.05,
+        "volume": 486522
+    },
+    {
+        "meta": {
+            "fullName": "Oracle Corporation",
+            "symbol": "ORCL"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 87.90,
+        "volume": 421171
+    },
+    {
+        "meta": {
+            "fullName": "Warner Bros. Discovery, Inc.",
+            "symbol": "WBD"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 14.51,
+        "volume": 30703
+    },
+    {
+        "meta": {
+            "fullName": "Johnson & Johnson",
+            "symbol": "JNJ"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 151.05,
+        "volume": 9391
+    },
+    {
+        "meta": {
+            "fullName": "NIKE, Inc.",
+            "symbol": "NKE"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 119.50,
+        "volume": 100137
+    },
+    {
+        "meta": {
+            "fullName": "Pinterest, Inc.",
+            "symbol": "PINS"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 27.47,
+        "volume": 18927
+    },
+    {
+        "meta": {
+            "fullName": "Take-Two Interactive Software, Inc.",
+            "symbol": "TTWO"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 113.56,
+        "volume": 94113
+    },
+    {
+        "meta": {
+            "fullName": "General Motors Company",
+            "symbol": "GM"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 34.05,
+        "volume": 160389
+    },
+    {
+        "meta": {
+            "fullName": "Sea Limited",
+            "symbol": "SE"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 77.66,
+        "volume": 37258
+    },
+    {
+        "meta": {
+            "fullName": "Viatris Inc.",
+            "symbol": "VTRS"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 9.4,
+        "volume": 32783
+    },
+    {
+        "meta": {
+            "fullName": "Paramount Global",
+            "symbol": "PARA"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 20.69,
+        "volume": 607845
+    },
+    {
+        "meta": {
+            "fullName": "Salesforce, Inc.",
+            "symbol": "CRM"
+        },
+        "timestamp": ISODate("2023-04-04T08:00:00.000+00:00"),
+        "usdRate": 186.51,
+        "volume": 81664
+    }
+]
